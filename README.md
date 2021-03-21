@@ -3,9 +3,20 @@
   to.do List
 </h1> 
 
+<p>
+   Screenshot da Página Principal
+</p> 
 
 <p align="center">
    <img src="./public/screenshot-todolist.JPG" width="" alt="screenshot page main">
+</p> 
+
+<p>
+   Demostração em video
+</p> 
+
+<p align="center">
+   <img src="./public/video-todolist.mp4" width="" alt="video page main">
 </p> 
 
 
