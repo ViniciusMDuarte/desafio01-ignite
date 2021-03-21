@@ -16,7 +16,7 @@
 </p> 
 
 <p align="center">
-   <img src="./public/video-todolist.mp4" width="" alt="video page main">
+   <img src="./public/video-todolist.gif" width="" alt="video page main">
 </p> 
 
 
