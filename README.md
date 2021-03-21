@@ -5,7 +5,7 @@
 
 
 <p align="center">
-   <img src="screenshot-todolist.JPG" width="" alt="screenshot page main">
+   <img src="./public/screenshot-todolist.JPG" width="" alt="screenshot page main">
 </p> 
 
 
@@ -19,7 +19,7 @@
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **HTML5**
-- **CSS3**
+- **CSS3/SCSS**
 - **TypeScript**
 - **ReactJS**
 
